@@ -9,7 +9,6 @@ document.getElementById('button').addEventListener('click', calculate);
 let inputJs = document.getElementById('input');
 let selectUnitJs = document.getElementById('selectUnit');
 let outputJs = document.getElementById('output');
-let equals = document.getElementById('equals');
 
 // Variables
 let convertedValue = 0;
